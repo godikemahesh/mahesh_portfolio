@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import "./Intro.css"
-import bg from "../../assets/mahesh_image.jpg"
+import bg from "/src/assets/mahesh_image.jpg"
 import btnImg from "../../assets/hireme.png"
 import { Link } from 'react-scroll';
 
