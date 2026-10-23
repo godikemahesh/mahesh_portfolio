@@ -1,0 +1,5 @@
+# Original full-size photos are kept locally; the site only loads the compressed copies in photos/web/
+photos/*.png
+photos/*.jpeg
+photos/*.jpg
+photos/*.pdf
